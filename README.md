@@ -10,5 +10,5 @@ Run the Docker container:
 After the Docker image is built, you can run the container using the following command:
 
 ```
-docker run -p 8080:8080 poker-app
+docker run -p 8085:8085 poker-app
 ```
