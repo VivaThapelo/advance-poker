@@ -1,0 +1,12 @@
+/Users/thapeloradebe/Developer/poker/src/main/java/com/advance/poker/models/PokerEvaluator.java
+/Users/thapeloradebe/Developer/poker/src/main/java/com/advance/poker/controllers/PokerController.java
+/Users/thapeloradebe/Developer/poker/src/main/java/com/advance/poker/games/Badugi.java
+/Users/thapeloradebe/Developer/poker/src/main/java/com/advance/poker/enums/Suit.java
+/Users/thapeloradebe/Developer/poker/src/main/java/com/advance/poker/games/Poker.java
+/Users/thapeloradebe/Developer/poker/src/main/java/com/advance/poker/interfaces/Game.java
+/Users/thapeloradebe/Developer/poker/src/main/java/com/advance/poker/interfaces/Deck.java
+/Users/thapeloradebe/Developer/poker/src/main/java/com/advance/poker/enums/Rank.java
+/Users/thapeloradebe/Developer/poker/src/main/java/com/advance/poker/models/Card.java
+/Users/thapeloradebe/Developer/poker/src/main/java/com/advance/poker/interfaces/Evaluator.java
+/Users/thapeloradebe/Developer/poker/src/main/java/com/advance/poker/PokerApplication.java
+/Users/thapeloradebe/Developer/poker/src/main/java/com/advance/poker/models/PokerDeck.java
